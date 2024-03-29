@@ -11,9 +11,9 @@ let clientTestimonials = [
   
     // Client testimonial 02
     {
-        comment: "Client comment goes here 02",
-        name: "Client Name 02",
-        location: "Client Location 02"
+        comment: "Updated client comment goes here 02",
+        name: "Updated Client Name 02",
+        location: "Updated Client Location 02"
     },
   
     // Client testimonial 03
