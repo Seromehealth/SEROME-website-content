@@ -1,6 +1,6 @@
 // TESTIMONIAL CONTENT
 
-const clientTestimonials = [
+let clientTestimonials = [
   
     // Client testimonial 01
     {
@@ -37,10 +37,6 @@ const clientTestimonials = [
         location: "Client Location 05"
     }
 ];
-
-// Export the clientTestimonials array for access outside this file
-export { clientTestimonials };
-
 
 //  WARNING: DO NOT CHANGE ANYTHING BELOW THIS LINE!!!
 
