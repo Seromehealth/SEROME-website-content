@@ -4,37 +4,37 @@ let clientTestimonials = [
   
     // Client testimonial 01
     {
-        comment: "Updated client comment goes here 01",
-        name: "Updated Client Name 01",
-        location: "Updated Client Location 01"
+        comment: "Serome has helped me a lot, providing quality yet affordable services for me.",
+        name: "Mama Grace",
+        occupation: "Trader"
     },
   
     // Client testimonial 02
     {
-        comment: "Updated client comment goes here 02",
-        name: "Updated Client Name 02",
-        location: "Updated Client Location 02"
+        comment: "Serome has helped provide quality care for my children in the university, they are fully insured under the Serome Compact plan and are well taken care of whenever they’re sick.",
+        name: "Mrs Rita Chinedu",
+        occupation: "Teacher"
     },
   
     // Client testimonial 03
     {
-        comment: "Client comment goes here 03",
-        name: "Client Name 03",
-        location: "Client Location 03"
+        comment: "I’ve been using Serome for about 3 months now. It’s quite affordable and easy to use. It’s peace of mind.",
+        name: "Ufuomanefe",
+        occupation: "Student"
     },
   
     // Client testimonial 04
     {
-        comment: "Client comment goes here 04",
-        name: "Client Name 04",
-        location: "Client Location 04"
+        comment: "Serome has provided a convenient way for me to cater for my family’s healthcare needs without breaking the bank. Thank you, Serome!",
+        name: "Mr Ochuko",
+        occupation: "Driver"
     },
   
     // Client testimonial 05
     {
-        comment: "Client comment goes here 05",
-        name: "Client Name 05",
-        location: "Client Location 05"
+        comment: "Serome good well well, dem de quick answer person for phone and still de check up on me every every time.",
+        name: "Mama Sophia",
+        occupation: "Business Woman"
     }
 ];
 
@@ -48,8 +48,8 @@ testimonialComment01.innerHTML = clientTestimonials[0].comment;
 let testimonialName01 = document.getElementById('testimonialName01');
 testimonialName01.innerHTML = clientTestimonials[0].name;
 
-let testimonialLocation01 = document.getElementById('testimonialLocation01');
-testimonialLocation01.innerHTML = clientTestimonials[0].location;
+let testimonialOccupation01 = document.getElementById('testimonialOccupation01');
+testimonialOccupation01.innerHTML = clientTestimonials[0].occupation;
 
 // Script for Testimonial 02
 
@@ -59,8 +59,8 @@ testimonialComment02.innerHTML = clientTestimonials[1].comment;
 let testimonialName02 = document.getElementById('testimonialName02');
 testimonialName02.innerHTML = clientTestimonials[1].name;
 
-let testimonialLocation02 = document.getElementById('testimonialLocation02');
-testimonialLocation02.innerHTML = clientTestimonials[1].location;
+let testimonialOccupation02 = document.getElementById('testimonialOccupation02');
+testimonialOccupation02.innerHTML = clientTestimonials[1].occupation;
 
 // Script for Testimonial 03
 
@@ -70,8 +70,8 @@ testimonialComment03.innerHTML = clientTestimonials[2].comment;
 let testimonialName03 = document.getElementById('testimonialName03');
 testimonialName03.innerHTML = clientTestimonials[2].name;
 
-let testimonialLocation03 = document.getElementById('testimonialLocation03');
-testimonialLocation03.innerHTML = clientTestimonials[2].location;
+let testimonialOccupation03 = document.getElementById('testimonialOccupation03');
+testimonialOccupation03.innerHTML = clientTestimonials[2].occupation;
 
 // Script for Testimonial 04
 
@@ -81,8 +81,8 @@ testimonialComment04.innerHTML = clientTestimonials[3].comment;
 let testimonialName04 = document.getElementById('testimonialName04');
 testimonialName04.innerHTML = clientTestimonials[3].name;
 
-let testimonialLocation04 = document.getElementById('testimonialLocation04');
-testimonialLocation04.innerHTML = clientTestimonials[3].location;
+let testimonialOccupation04 = document.getElementById('testimonialOccupation04');
+testimonialOccupation04.innerHTML = clientTestimonials[3].occupation;
 
 // Script for Testimonial 05
 
@@ -92,5 +92,5 @@ testimonialComment05.innerHTML = clientTestimonials[4].comment;
 let testimonialName05 = document.getElementById('testimonialName05');
 testimonialName05.innerHTML = clientTestimonials[4].name;
 
-let testimonialLocation05 = document.getElementById('testimonialLocation05');
-testimonialLocation05.innerHTML = clientTestimonials[4].location;
+let testimonialOccupation05 = document.getElementById('testimonialOccupation05');
+testimonialOccupation05.innerHTML = clientTestimonials[4].occupation;
